@@ -1,0 +1,24 @@
+2023-11-15T10:23:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\block-patterns\query-standard-posts.php on line 9
+
+2023-11-15T12:20:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-11-15T15:41:45+00:00 CRITICAL Uncaught TypeError: unlink(): Argument #1 ($filename) must be of type string, WP_Error given in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php:236
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php(236): unlink(Object(WP_Error))
+#1 C:\xampp\htdocs\ecommerce-website\wp-includes\class-wp-hook.php(324): UxBuilder\Ajax\AjaxManager->import_media('')
+#2 C:\xampp\htdocs\ecommerce-website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\ecommerce-website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\ecommerce-website\wp-admin\admin-ajax.php(188): do_action('wp_ajax_ux_buil...')
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php on line 236
+
+2023-11-15T15:41:59+00:00 CRITICAL Uncaught TypeError: unlink(): Argument #1 ($filename) must be of type string, WP_Error given in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php:236
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php(236): unlink(Object(WP_Error))
+#1 C:\xampp\htdocs\ecommerce-website\wp-includes\class-wp-hook.php(324): UxBuilder\Ajax\AjaxManager->import_media('')
+#2 C:\xampp\htdocs\ecommerce-website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\ecommerce-website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\ecommerce-website\wp-admin\admin-ajax.php(188): do_action('wp_ajax_ux_buil...')
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\builder\core\server\src\Ajax\AjaxManager.php on line 236
+

@@ -1,0 +1,36 @@
+2023-11-16T10:15:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-crud-controller.php on line 10
+
+2023-11-16T10:15:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\wccom-site\installation\installation-steps\class-wc-wccom-site-installation-step-get-product-info.php on line 17
+
+2023-11-16T10:15:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\class-wpdb.php on line 2349
+
+2023-11-16T10:15:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\class-wp-oembed-controller.php on line 33
+
+2023-11-16T10:15:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-completed-order.php on line 8
+
+2023-11-16T10:15:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-accounts.php on line 10
+
+2023-11-16T10:15:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\rest-api.php on line 43
+
+2023-11-16T10:15:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 188
+
+2023-11-16T10:15:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\admin\settings\class-wc-settings-page.php on line 9
+
+2023-11-16T10:15:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-admin\includes\theme.php on line 1251
+
+2023-11-16T10:15:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\admin\kirki\core\class-kirki-settings.php on line 74
+
+2023-11-16T10:15:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\class-wpdb.php on line 2349
+
+2023-11-16T10:15:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\ProductResultsCount.php on line 54
+
+2023-11-16T10:15:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-controller.php on line 131
+
+2023-11-16T10:15:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-controller.php on line 131
+
+2023-11-16T10:16:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-includes\rest-api\endpoints\class-wp-rest-controller.php on line 398
+
+2023-11-16T10:24:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\plugins\woocommerce\vendor\automattic\jetpack-config\src\class-config.php on line 472
+
+2023-11-16T10:24:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce-website\wp-content\themes\flatsome\inc\structure\structure-admin.php on line 5
+
